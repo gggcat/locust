@@ -182,6 +182,8 @@ endpoint = access to here (wait a minute): http://locust-xxxxxxxxxxxxxxxxxxx.ap-
 
 ## 削除
 
+`terraform destroy`で削除。
+
 ```bash
 $ ./terraform destroy
 
